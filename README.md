@@ -3,10 +3,6 @@
 
 This is a simple Python program that simulates the classic game of Rock, Paper, Scissors. The game is played between two players, and their scores are tracked and displayed after each round.
 
-## Author
-
-**Madhukar Kumar**
-
 ## Game Overview
 
 The program includes the following player types:
