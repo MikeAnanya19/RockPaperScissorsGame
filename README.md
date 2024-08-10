@@ -29,15 +29,9 @@ The program includes the following player types:
 1. Make sure you have Python installed on your system.
 2. Copy the Python code into a file named `rock_paper_scissors.py`.
 3. Run the file in your terminal or command prompt:
-
-   ```sh
-   python rock_paper_scissors.py
-   ```
-
 4. When prompted, enter your name and then play the game by typing "rock", "paper", or "scissors" as your move.
-
 5. After the first game ends, you'll have the option to play again. You can play against a different type of opponent, such as `RandomPlayer`.
-
+  ```
 ## Example Output
 
 ```text
