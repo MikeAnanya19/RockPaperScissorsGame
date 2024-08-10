@@ -1,5 +1,3 @@
-Here's a `README.md` file for your Rock, Paper, Scissors game:
-
 ```markdown
 # Rock, Paper, Scissors Game
 
